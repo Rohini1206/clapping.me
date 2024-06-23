@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="350px" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>circle-color</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-92.000000, -4381.000000)" fill="#ec297b" id="circle-color">
+            <path d="M267,4731 C363.649831,4731 442,4652.64983 442,4556 C442,4459.35017 363.649831,4381 267,4381 C170.350169,4381 92,4459.35017 92,4556 C92,4652.64983 170.350169,4731 267,4731 Z M267,4683 C196.835773,4683 140,4626.11593 140,4556 C140,4485.88407 196.835773,4429 267,4429 C337.164227,4429 394,4485.88407 394,4556 C394,4626.11593 337.164227,4683 267,4683 Z"></path>
+        </g>
+    </g>
+</svg>
